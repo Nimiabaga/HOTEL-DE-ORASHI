@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" role="img" aria-label="Hotel de Orashi logo">
+  <defs>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7e3b1" />
+      <stop offset="100%" stop-color="#d5ac62" />
+    </linearGradient>
+    <style>
+      .gold { fill: url(#gold-grad); }
+      .title { font-family: Georgia, serif; font-size: 64px; font-weight: 800; letter-spacing: 12px; }
+      .subtitle { font-family: Arial, sans-serif; font-size: 22px; letter-spacing: 10px; fill: #f7e3b1; }
+      .detail { fill: none; stroke: url(#gold-grad); stroke-width: 4; stroke-linecap: round; }
+      .ornament { fill: url(#gold-grad); opacity: 0.9; }
+    </style>
+  </defs>
+
+  <rect width="700" height="320" fill="none" />
+  <path class="ornament" d="M120 120 C180 40 340 40 400 120" />
+  <path class="ornament" d="M120 200 C180 280 340 280 400 200" />
+  <text x="50%" y="125" text-anchor="middle" class="title gold">HOTEL</text>
+  <path class="detail" d="M110 140 H590" />
+  <text x="50%" y="180" text-anchor="middle" class="subtitle">DE ORASHI</text>
+  <path class="detail" d="M110 190 H590" />
+  <path class="ornament" d="M200 100 Q250 70 300 100 T400 100" opacity="0.85" />
+  <path class="ornament" d="M200 220 Q250 250 300 220 T400 220" opacity="0.85" />
+</svg>

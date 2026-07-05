@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hotel de Orashi</title>
+    <title>Mocktails · Hotel de Orashi</title>
     <meta
       name="description"
-      content="Hotel de Orashi is a premium lounge and restaurant with elegant service and modern menus."
+      content="Non-alcoholic mocktails at Hotel de Orashi."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -20,65 +20,33 @@
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero" role="banner" id="home">
-        <div class="hero-overlay"></div>
-        <div class="hero-inner container">
-          <img class="logo" src="./images/logo.png" alt="Hotel de Orashi" />
-          <p class="hero-subtitle">
-            <span class="hs-line" aria-hidden="true"></span>
-            <span class="hs-text gold-text">Luxury Redefined</span>
-            <span class="hs-line" aria-hidden="true"></span>
-          </p>
-        </div>
-      </header>
+      <div class="page-hero">
+        <img src="./images/cat-mocktails.jpg" alt="Mocktails" />
+      </div>
+      <div class="cat-page-header">
+        <a class="page-back" href="drinks-menu.html">‹ Back</a>
+        <p class="cat-page-title">
+          <span class="cpt-line" aria-hidden="true"></span>
+          <span class="cpt-text">Mocktails</span>
+          <span class="cpt-line" aria-hidden="true"></span>
+        </p>
+      </div>
 
       <main>
-        <div id="menu" class="menu-title" aria-label="Menu">
-          <h2 class="menu-label">MENU</h2>
-          <span class="menu-underline" aria-hidden="true"></span>
+        <div class="item-list">
+          <div class="item-card"><span class="item-name">Virgin 90</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Watermelon Cooler</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">90 Kiwi Mojito</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Red Mojito</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Chapman</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Dirty Chapman</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Virgin Colada</span><span class="item-price">₦6,000</span></div>
+          <div class="item-card"><span class="item-name">Fruit Punch</span><span class="item-price">₦6,000</span></div>
         </div>
-
-
-        <section class="featured" aria-labelledby="featured-heading">
-          <h3 id="featured-heading" class="featured-title gold-text">Featured</h3>
-
-          <div class="food-grid">
-            <article class="food-card">
-              <img src="./images/chicken-chips.jpg" alt="Chicken & Chips" />
-              <div class="food-info">
-                <h4 class="food-name">Chicken & Chips</h4>
-                <p class="food-price">₦8,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/cocktail.jpg" alt="Signature Cocktail" />
-              <div class="food-info">
-                <h4 class="food-name">Signature Cocktail</h4>
-                <p class="food-price">₦7,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/whiskey.jpg" alt="Premium Whiskey" />
-              <div class="food-info">
-                <h4 class="food-name">Premium Whiskey</h4>
-                <p class="food-price">₦35,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/soup.jpg" alt="Pepper Soup" />
-              <div class="food-info">
-                <h4 class="food-name">Pepper Soup</h4>
-                <p class="food-price">₦3,500</p>
-              </div>
-            </article>
-          </div>
-        </section>
-
-
       </main>
 
       <nav class="bottom-nav" aria-label="Primary">
-        <a href="#home" class="nav-link">
+        <a href="index.html#home" class="nav-link">
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11.5L12 4l9 7.5v8.5a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1v-8.5Z"/></svg>
           <span>Home</span>
         </a>
@@ -86,7 +54,7 @@
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12"/><path d="M8 12h8"/><path d="M9 16h6"/><path d="M7 4h10a1 1 0 0 1 1 1v2a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V5a1 1 0 0 1 1-1Z"/><path d="M15 6v2"/><path d="M9 6v2"/></svg>
           <span>Food</span>
         </a>
-        <a href="drinks-menu.html" class="nav-link">
+        <a href="drinks-menu.html" class="nav-link active">
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 4h8l-1 7a3 3 0 0 1-6 0L8 4Z"/><path d="M12 4v5"/><path d="M10 20h4"/><path d="M12 12v8"/></svg>
           <span>Drinks</span>
         </a>

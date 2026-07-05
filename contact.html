@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hotel de Orashi</title>
+    <title>Contact · Hotel de Orashi</title>
     <meta
       name="description"
-      content="Hotel de Orashi is a premium lounge and restaurant with elegant service and modern menus."
+      content="Contact Hotel de Orashi."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -20,65 +20,60 @@
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero" role="banner" id="home">
-        <div class="hero-overlay"></div>
-        <div class="hero-inner container">
-          <img class="logo" src="./images/logo.png" alt="Hotel de Orashi" />
-          <p class="hero-subtitle">
-            <span class="hs-line" aria-hidden="true"></span>
-            <span class="hs-text gold-text">Luxury Redefined</span>
-            <span class="hs-line" aria-hidden="true"></span>
-          </p>
-        </div>
-      </header>
+      <div class="cat-page-header">
+        <a class="page-back" href="index.html">‹ Back</a>
+        <p class="cat-page-title">
+          <span class="cpt-line" aria-hidden="true"></span>
+          <span class="cpt-text">Contact</span>
+          <span class="cpt-line" aria-hidden="true"></span>
+        </p>
+      </div>
 
       <main>
-        <div id="menu" class="menu-title" aria-label="Menu">
-          <h2 class="menu-label">MENU</h2>
-          <span class="menu-underline" aria-hidden="true"></span>
+        <div class="contact-slider">
+          <img src="./images/contact-1.jpg" alt="Hotel de Orashi" class="active" />
+          <img src="./images/contact-2.jpg" alt="Hotel de Orashi" />
+          <div class="slider-dots">
+            <span class="slider-dot active" data-index="0"></span>
+            <span class="slider-dot" data-index="1"></span>
+          </div>
         </div>
 
+        <div class="contact-card">
+          <a
+            class="contact-link"
+            href="https://www.google.com/maps/place/Hotel+De+Orashi/@4.905804,7.0036542,17z/data=!3m1!4b1!4m6!3m5!1s0x1069d1c4cde17079:0xd353de8295e2ce3!8m2!3d4.905804!4d7.0036542!16s%2Fg%2F11zc06vhhb"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="cl-icon">📍</span>
+            <span class="cl-text">
+              <span class="cl-label">Address</span>
+              <span class="cl-value">11, by Ogbonda Street, Eneka Road, Rukpokwu, Port Harcourt, Rivers State, Nigeria</span>
+            </span>
+          </a>
+          <a class="contact-link" href="tel:+2348140634934">
+            <span class="cl-icon">📞</span>
+            <span class="cl-text">
+              <span class="cl-label">Phone</span>
+              <span class="cl-value">+234 814 063 4934</span>
+            </span>
+          </a>
+        </div>
 
-        <section class="featured" aria-labelledby="featured-heading">
-          <h3 id="featured-heading" class="featured-title gold-text">Featured</h3>
-
-          <div class="food-grid">
-            <article class="food-card">
-              <img src="./images/chicken-chips.jpg" alt="Chicken & Chips" />
-              <div class="food-info">
-                <h4 class="food-name">Chicken & Chips</h4>
-                <p class="food-price">₦8,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/cocktail.jpg" alt="Signature Cocktail" />
-              <div class="food-info">
-                <h4 class="food-name">Signature Cocktail</h4>
-                <p class="food-price">₦7,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/whiskey.jpg" alt="Premium Whiskey" />
-              <div class="food-info">
-                <h4 class="food-name">Premium Whiskey</h4>
-                <p class="food-price">₦35,000</p>
-              </div>
-            </article>
-            <article class="food-card">
-              <img src="./images/soup.jpg" alt="Pepper Soup" />
-              <div class="food-info">
-                <h4 class="food-name">Pepper Soup</h4>
-                <p class="food-price">₦3,500</p>
-              </div>
-            </article>
-          </div>
-        </section>
-
-
+        <div class="map-wrap">
+          <iframe
+            src="https://www.google.com/maps?q=Hotel+De+Orashi,4.905804,7.0036542&output=embed"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            allowfullscreen
+            title="Hotel de Orashi location on Google Maps"
+          ></iframe>
+        </div>
       </main>
 
       <nav class="bottom-nav" aria-label="Primary">
-        <a href="#home" class="nav-link">
+        <a href="index.html#home" class="nav-link">
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11.5L12 4l9 7.5v8.5a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1v-8.5Z"/></svg>
           <span>Home</span>
         </a>
@@ -94,7 +89,7 @@
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10h16v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V10Z"/><path d="M4 10L12 4l8 6"/><path d="M9 15h2"/><path d="M9 18h2"/><path d="M14 15h2"/><path d="M14 18h2"/></svg>
           <span>Rooms</span>
         </a>
-        <a href="contact.html" class="nav-link">
+        <a href="contact.html" class="nav-link active">
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.72c.12 1.03.34 2.03.65 3a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.08-1.08a2 2 0 0 1 2.11-.45c.97.31 1.97.53 3 .65a2 2 0 0 1 1.72 2Z"/></svg>
           <span>Contact</span>
         </a>
@@ -107,6 +102,28 @@
           event.currentTarget.classList.add('active');
         });
       });
+
+      const sliderImgs = document.querySelectorAll('.contact-slider img');
+      const sliderDots = document.querySelectorAll('.slider-dot');
+      let sliderIndex = 0;
+
+      function showSlide(index) {
+        sliderImgs.forEach(img => img.classList.remove('active'));
+        sliderDots.forEach(dot => dot.classList.remove('active'));
+        sliderImgs[index].classList.add('active');
+        sliderDots[index].classList.add('active');
+        sliderIndex = index;
+      }
+
+      sliderDots.forEach(dot => {
+        dot.addEventListener('click', () => showSlide(Number(dot.dataset.index)));
+      });
+
+      if (sliderImgs.length > 1) {
+        setInterval(() => {
+          showSlide((sliderIndex + 1) % sliderImgs.length);
+        }, 4000);
+      }
     </script>
   </body>
 </html>

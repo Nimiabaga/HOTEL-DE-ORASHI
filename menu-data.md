@@ -2,6 +2,10 @@
 
 ## FOOD MENU
 
+### BITES
+- Chicken & Chips — ₦8,000
+- Platter — ₦8,000
+
 ### SOUP
 - Okasi Soup — ₦5,000
 - Egusi Soup — ₦5,000
@@ -26,12 +30,10 @@
 
 ### PROTEINS
 - Chicken — ₦4,000
-- Goat Meat Pepper Soup — ₦3,500
+- Goat Meat — ₦3,500
 - Catfish — ₦4,000
 - Fried Fish — ₦3,000
 - Cowhead — ₦3,000
-
-### PEPPERED PROTEIN
 - Peppered Chicken — ₦4,000
 - Peppered Meat — ₦3,000
 - Peppered Snail — ₦5,000
@@ -39,42 +41,8 @@
 - Peppered Gizzard — ₦5,000
 - Isi-Ewu One Pot — ₦15,000
 
-### SPECIALS
-- Platter — ₦8,000
+### NOODLES
 - Noodles & Egg — ₦3,000
-
----
-
-## DRINKS MENU
-- Zagg — ₦2,000
-- Black Bullet — ₦3,000
-- Smirnoff Ice Pet — ₦2,500
-- Big Legend — ₦3,500
-- Small Legend — ₦3,000
-- Climax — ₦2,200
-- Table Water — ₦1,000
-- Origin Bitter — ₦3,500
-- Gulder — ₦3,000
-- Big Stout — ₦4,000
-- Medium Stout — ₦3,500
-- Small Stout — ₦3,000
-- Coke Lite — ₦2,000
-- Goldberg — ₦2,500
-- Big Heineken — ₦3,500
-- Small Heineken — ₦3,000
-- 5 Alive — ₦4,000
-- Fanta Pet — ₦2,000
-- Castle Lite — ₦3,000
-- Chivita Exotic — ₦4,500
-- Malta Guinness — ₦2,500
-- Desperados — ₦2,700
-- Hollandia Yoghurt — ₦4,500
-- Chivita 100% — ₦5,000
-- Tiger — ₦2,500
-- Ace Bitter — ₦3,500
-- Trophy — ₦2,500
-- Maltina — ₦2,500
-- Action Bitter — ₦3,500
 
 ---
 
@@ -131,6 +99,76 @@
 - Strawberry and Banana Smoothie — ₦6,000
 - Avocado and Banana Smoothie — ₦6,000
 - Pineapple and Banana Smoothie — ₦6,000
+
+---
+
+## WHISKEY
+_No items yet — page built, awaiting menu data._
+
+---
+
+## WINES
+_No items yet — page built, awaiting menu data._
+
+---
+
+## CHAMPAGNE
+_No items yet — page built, awaiting menu data._
+
+---
+
+## BEER & MIXERS
+- Zagg — ₦2,000
+- Black Bullet — ₦3,000
+- Smirnoff Ice Pet — ₦2,500
+- Big Legend — ₦3,500
+- Small Legend — ₦3,000
+- Climax — ₦2,200
+- Origin Bitter — ₦3,500
+- Gulder — ₦3,000
+- Big Stout — ₦4,000
+- Medium Stout — ₦3,500
+- Small Stout — ₦3,000
+- Goldberg — ₦2,500
+- Big Heineken — ₦3,500
+- Small Heineken — ₦3,000
+- Castle Lite — ₦3,000
+- Desperados — ₦2,700
+- Tiger — ₦2,500
+- Ace Bitter — ₦3,500
+- Trophy — ₦2,500
+- Action Bitter — ₦3,500
+
+### Soft
+- Table Water — ₦1,000
+- Coke Lite — ₦2,000
+- 5 Alive — ₦4,000
+- Fanta Pet — ₦2,000
+- Chivita Exotic — ₦4,500
+- Malta Guinness — ₦2,500
+- Hollandia Yoghurt — ₦4,500
+- Chivita 100% — ₦5,000
+- Maltina — ₦2,500
+
+---
+
+## LIQUOR, RUM & GIN
+_No items yet — page built, awaiting menu data._
+
+---
+
+## COGNAC
+_No items yet — page built, awaiting menu data._
+
+---
+
+## SHOTS
+_No items yet — page built, awaiting menu data._
+
+---
+
+## TEQUILA
+_No items yet — page built, awaiting menu data._
 
 ---
 

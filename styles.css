@@ -390,17 +390,15 @@ body, button, input, select, textarea {
   text-align: center;
   padding: 1.6rem 1rem 1.4rem;
   border-bottom: 1px solid var(--border);
-  position: relative;
 }
 
 .page-back {
-  position: absolute;
-  left: 0.35rem;
-  top: 0.85rem;
-  z-index: 2;
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 12px 14px;
+  gap: 4px;
+  padding: 1.4rem 1rem 1.8rem;
+  border-top: 1px solid var(--border);
   font-family: Inter, system-ui, sans-serif;
   font-size: 0.78rem;
   font-weight: 600;

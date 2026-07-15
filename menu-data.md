@@ -7,13 +7,12 @@
 - Platter — ₦8,000
 
 ### SOUP
-- Okasi Soup — ₦5,000
-- Egusi Soup — ₦5,000
-- Ogoni Soup — ₦5,000
-- Okro Soup — ₦5,000
-- Native Soup — ₦5,000
-- Banga Soup — ₦5,000
-- Bitterleaf Soup — ₦5,000
+- Okazi Soup — ₦5,000
+- Egusi Soup — ₦3,500
+- Okro Soup — ₦3,500
+- Native Soup — ₦6,000
+- Oha Soup — ₦6,000
+- Stew — ₦2,000
 
 ### PEPPER SOUP
 - Catfish Pepper Soup — ₦4,000
@@ -23,26 +22,41 @@
 - Crab Pepper Soup — ₦3,500
 
 ### RICE
-- White Rice & Stew — ₦2,000
-- Jollof Rice — ₦2,000
-- Coconut Rice — ₦2,000
-- Native Rice — ₦2,000
+- White Rice — ₦2,000
+- Jollof Rice — ₦7,000
+- Fried Rice — ₦8,000
+- Special Fried Rice — ₦10,000
+- Spaghetti — ₦6,000
 
 ### PROTEINS
-- Chicken — ₦4,000
-- Goat Meat — ₦3,500
-- Catfish — ₦4,000
-- Fried Fish — ₦3,000
-- Cowhead — ₦3,000
-- Peppered Chicken — ₦4,000
-- Peppered Meat — ₦3,000
-- Peppered Snail — ₦5,000
-- Peppered Cowhead — ₦3,000
-- Peppered Gizzard — ₦5,000
-- Isi-Ewu One Pot — ₦15,000
+- Chicken — ₦6,000
+- Goat Meat — ₦4,000
+- Catfish — ₦7,000
+- Cow Head — ₦6,000
+- Croker Fish — ₦7,000
+- Snail — ₦7,000
+- Gizzard — ₦5,000
+- Turkey — ₦8,000
+- Beef — ₦4,000
+- Prawn — ₦10,000
+- Isi Ewu — ₦15,000
+- Chicken Wings — ₦7,000
 
 ### NOODLES
 - Noodles & Egg — ₦3,000
+
+### APPETIZER
+- Chicken & Chips — ₦10,000
+- Club Sandwich — ₦8,000
+- Noodles & Egg — ₦4,000
+- Platters (Samosa, Spring Roll, Peppered Proteins)
+- A Portion of Samosas — ₦4,000
+- A Portion of Spring Roll — ₦3,000
+- A Plate of Abacha (Fish, Snail, Kpomo, Ugba) — ₦15,000
+
+### NATIONAL
+- Yam & Egg Sauce — ₦8,000
+- Pap (Custard, Bread, Sugar, Milk) — ₦7,000
 
 ---
 
